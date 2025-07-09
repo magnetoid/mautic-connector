@@ -1,5 +1,5 @@
-# mautic-connector
-Very Simple Mautic to WooCommerce connector
+# Mautic Connector
+## Very Simple Mautic to WooCommerce connector
 
 Simple WooCommerce to Mautic integration plugin that transfers comprehensive data between the two platforms. Here's what the plugin does:
 Key Features:
