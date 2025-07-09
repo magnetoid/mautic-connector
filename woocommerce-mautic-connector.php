@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce to Mautic Integration
  * Description: Simple integration to send WooCommerce order data to Mautic
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Marko Tiosavljevic
  */
 
 // Prevent direct access
